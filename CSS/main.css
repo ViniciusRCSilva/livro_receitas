@@ -1,0 +1,15 @@
+body{
+	color: #000;
+	margin: 10px;
+	width: 900px;
+}
+
+#title{
+	font-style: italic;
+}
+
+.iamgem_strogonoff{
+	width: 50%;
+	border: 2px solid #000;
+	border-radius: 5%;
+}
